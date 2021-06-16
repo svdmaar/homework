@@ -32,7 +32,7 @@ Here are the questions for this week:
 1. Using slicing, print the second, third, and fourth item.
 1. Using slicing, print the first, third, and fifth item.
 1. Using slicing, print the same, but in reverse order.
-1. Using slicing and a `for` loop, print the first, third, and fifth item, all on seperate lines.
+1. Using slicing and a `for` loop, print the first, third, and fifth item, all on separate lines.
 1. Create a new repo on github and upload the `.py`-file. Send me the URL of that file.
 
 Good luck!
