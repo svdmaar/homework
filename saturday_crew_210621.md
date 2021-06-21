@@ -31,10 +31,10 @@ Here are the questions for this week:
 1. Same as before, but print only the numbers smaller than or equal to `4`, or larger than `8`.
 1. Same as before, but print only the numbers between `3` and `6` (inclusive).
 1. Create the list `[2,4,6,8,10,12]`
-1. Using a `for` loop, loop over all numbers in `1,2,3,4,...10` and only print it if it is the list you created in the previous question.
+1. Using a `for` loop, loop over all numbers in `1,2,3,4,...10` and only print it if it is in the list you created in the previous question.
 1. Create new boolean variable that contains `False`.
 1. Using a `for` loop, loop over the values `1,2,3,4,...,10`. Set your boolean variable to `True` if any of the numbers is higher than `8`.
-1. Using an `if/else` statement, print the correct sentence: either `There was at least one number bigger than 8` or `There were no numbmers bigger than 8`.
+1. Using an `if/else` statement, print the correct sentence: either `There was at least one number bigger than 8` or `There were no numbers bigger than 8`.
 1. Create a new repo on github and upload the `.py`-file. Send me the URL of that file.
 
 Good luck!
