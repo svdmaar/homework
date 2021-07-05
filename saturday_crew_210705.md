@@ -29,6 +29,5 @@ Here are the questions for this week:
 1. Using a `while` loop, print your name ten times.
 1. Ask the user for two numbers and output the sum of them.
 1. Print all odd numbers between 100 and 120.
-1. Create a new repo on github and upload the `.py`-file. Send me the URL of that file.
 
 Good luck!
