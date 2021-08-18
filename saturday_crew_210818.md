@@ -18,6 +18,5 @@ Here are the questions for this week:
 1. Create a function that reads the first line from a file and returns it.
 1. Test it on the file you just wrote. Print the read string.
 1. Use this function also to read the file `hoje.txt`. This will throw an exception. Catch the exception outside your function.
-1. Make sure your code from question 4 still works.
 
 Good luck!
