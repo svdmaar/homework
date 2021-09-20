@@ -5,7 +5,7 @@ Here are the questions for this week:
 
 1. Create a project called "AmericanMovies".
 1. Create a new repository on github linked to your project. Make sure to set it to "public".
-1. Download this dataset: https://raw.githubusercontent.com/prust/wikipedia-movie-data/master/movies.json
+1. Download this dataset into your project directory: https://raw.githubusercontent.com/prust/wikipedia-movie-data/master/movies.json
 1. Commit and push your project to github.
 1. Parse the JSON file.
 1. Commit and push your project to github.
@@ -19,5 +19,6 @@ Here are the questions for this week:
 1. Commit and push your project to github.
 1. Export your graph to an `.svg` file.
 1. Commit and push your project to github.
+1. Send me a link to your repository.
 
 Good luck!
